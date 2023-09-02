@@ -8,3 +8,11 @@ balabala...
 3. ccc
 ---
 Thanks!
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+  return 0;
+}
+
+```
